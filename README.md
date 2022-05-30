@@ -1,8 +1,12 @@
 # Pacman Coding Assignment
 
-Sit back relax and watch pacman go back and forth.
+## Description
 
-This program rotates through images in a two dimensional array and results in pacman chomping away while moving back forth accross the screen.
+This program loops through images in a two dimensional array useing the setTimeout function to schedule execution of a function. The program results in an animated pacman that is chomping away while moving back forth accross the screen.
+
+This repository was created during week 4 of the MIT xPro Professional Certificate in Coding: Full Stack Development with MERN - April 2022
+
+##Installation - Some concepts to help people get started with your project
 
 The boundaries are set using [window.innerwidth](https://developer.mozilla.org/en-US/docs/Web/API/Window/innerWidth).
 
@@ -17,5 +21,3 @@ The direction variable uses a function checkPageBounds with a conditional [if, t
 The focus variable switches between zero and one everyone time the Run function is called. The [modulus operation](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Remainder) is used to do this.
 
 The function has to run over and over again in order keep pacman chomping and moving left and right. The built-in javascript function [timeOut()](https://developer.mozilla.org/en-US/docs/Web/API/setTimeout) is used to set a timer for how often the function will run.
-
-This repository was created during week 4 of the MIT xPro Professional Certificate in Coding: Full Stack Development with MERN - April 2022
