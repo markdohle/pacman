@@ -42,7 +42,7 @@ Future versions will include ghosts that chase pacman arround and food that pacm
 
 ## License information
 
-<img id="PacMan" src="PacMan1.png" width='200' onclick="Run()" style="position:absolute"> </img>
+<img id="PacMan" src="PacMan1.png" width='400' onclick="Run()" style="position:absolute"> </img>
 
 MIT License
 
