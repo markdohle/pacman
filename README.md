@@ -1,7 +1,10 @@
-# pacman.github.io
-Sit back relax and watch Pacman go back and forth
+# Pacman Coding Assignment
 
-This is program rotates through images in an array and results in pacman chomping away while moving back forth accross the screen. The boundaries are set using [window.innerwidth](https://developer.mozilla.org/en-US/docs/Web/API/Window/innerWidth).
+Sit back relax and watch pacman go back and forth.
+
+This program rotates through images in a two dimensional array and results in pacman chomping away while moving back forth accross the screen.
+
+The boundaries are set using [window.innerwidth](https://developer.mozilla.org/en-US/docs/Web/API/Window/innerWidth).
 
 Use the method [document.getElementById](https://developer.mozilla.org/en-US/docs/Web/API/Document/getElementById) to get the first pacman image to show up facing in the correct direction.
 
